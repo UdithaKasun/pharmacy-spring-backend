@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: pharmacy-spring-backend
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Uditha Kasun
+Implementation-Vendor-Id: af-project
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/pharmacy-spr
+ ing-backend/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
